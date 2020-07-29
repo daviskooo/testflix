@@ -1,0 +1,229 @@
+{
+  "categorias": [
+    {
+      "titulo": "Universe",
+      "link": "",
+      "cor": "#FF2000",
+      "link_extra": {
+        "text": "A jorney through the time",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
+          "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
+        },
+        {
+          "titulo": " LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history",
+          "url": "https://www.youtube.com/watch?v=SUelbSa-OkA"
+        },
+        {
+          "titulo": "Deep Field: The Impossible Magnitude of our Universe",
+          "url": "https://www.youtube.com/watch?v=yDiD8F9ItX0"
+        },
+        {
+          "titulo": "ORBIT - A Journey Around Earth in Real Time",
+          "url": "https://www.youtube.com/watch?v=7KXGZAEWzn0"
+        },
+        {
+          "titulo": "Nocturne - Earth at Night ",
+          "url": "https://www.youtube.com/watch?v=8gPzIKe92-M"
+        },
+        {
+          "titulo": "Around The World In 324 Seconds",
+          "url": "https://www.youtube.com/watch?v=uh7LEhFlsrY"
+        },
+        {
+          "titulo": "Comet NEOWISE from ISS",
+          "url": "https://www.youtube.com/watch?v=Yh1_wHdUx3Y"
+        }       
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
+          "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
+        },
+        {
+          "titulo": " LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history",
+          "url": "https://www.youtube.com/watch?v=SUelbSa-OkA"
+        },
+        {
+          "titulo": "Deep Field: The Impossible Magnitude of our Universe",
+          "url": "https://www.youtube.com/watch?v=yDiD8F9ItX0"
+        },
+        {
+          "titulo": "ORBIT - A Journey Around Earth in Real Time",
+          "url": "https://www.youtube.com/watch?v=7KXGZAEWzn0"
+        },
+        {
+          "titulo": "Nocturne - Earth at Night ",
+          "url": "https://www.youtube.com/watch?v=8gPzIKe92-M"
+        },
+        {
+          "titulo": "Around The World In 324 Seconds",
+          "url": "https://www.youtube.com/watch?v=uh7LEhFlsrY"
+        },
+        {
+          "titulo": "Comet NEOWISE from ISS",
+          "url": "https://www.youtube.com/watch?v=Yh1_wHdUx3Y"
+        }       
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
+          "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
+        },
+        {
+          "titulo": " LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history",
+          "url": "https://www.youtube.com/watch?v=SUelbSa-OkA"
+        },
+        {
+          "titulo": "Deep Field: The Impossible Magnitude of our Universe",
+          "url": "https://www.youtube.com/watch?v=yDiD8F9ItX0"
+        },
+        {
+          "titulo": "ORBIT - A Journey Around Earth in Real Time",
+          "url": "https://www.youtube.com/watch?v=7KXGZAEWzn0"
+        },
+        {
+          "titulo": "Nocturne - Earth at Night ",
+          "url": "https://www.youtube.com/watch?v=8gPzIKe92-M"
+        },
+        {
+          "titulo": "Around The World In 324 Seconds",
+          "url": "https://www.youtube.com/watch?v=uh7LEhFlsrY"
+        },
+        {
+          "titulo": "Comet NEOWISE from ISS",
+          "url": "https://www.youtube.com/watch?v=Yh1_wHdUx3Y"
+        }      
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
+          "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
+        },
+        {
+          "titulo": " LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history",
+          "url": "https://www.youtube.com/watch?v=SUelbSa-OkA"
+        },
+        {
+          "titulo": "Deep Field: The Impossible Magnitude of our Universe",
+          "url": "https://www.youtube.com/watch?v=yDiD8F9ItX0"
+        },
+        {
+          "titulo": "ORBIT - A Journey Around Earth in Real Time",
+          "url": "https://www.youtube.com/watch?v=7KXGZAEWzn0"
+        },
+        {
+          "titulo": "Nocturne - Earth at Night ",
+          "url": "https://www.youtube.com/watch?v=8gPzIKe92-M"
+        },
+        {
+          "titulo": "Around The World In 324 Seconds",
+          "url": "https://www.youtube.com/watch?v=uh7LEhFlsrY"
+        },
+        {
+          "titulo": "Comet NEOWISE from ISS",
+          "url": "https://www.youtube.com/watch?v=Yh1_wHdUx3Y"
+        }     
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
+          "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
+        },
+        {
+          "titulo": " LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history",
+          "url": "https://www.youtube.com/watch?v=SUelbSa-OkA"
+        },
+        {
+          "titulo": "Deep Field: The Impossible Magnitude of our Universe",
+          "url": "https://www.youtube.com/watch?v=yDiD8F9ItX0"
+        },
+        {
+          "titulo": "ORBIT - A Journey Around Earth in Real Time",
+          "url": "https://www.youtube.com/watch?v=7KXGZAEWzn0"
+        },
+        {
+          "titulo": "Nocturne - Earth at Night ",
+          "url": "https://www.youtube.com/watch?v=8gPzIKe92-M"
+        },
+        {
+          "titulo": "Around The World In 324 Seconds",
+          "url": "https://www.youtube.com/watch?v=uh7LEhFlsrY"
+        },
+        {
+          "titulo": "Comet NEOWISE from ISS",
+          "url": "https://www.youtube.com/watch?v=Yh1_wHdUx3Y"
+        }       
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
+          "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
+        },
+        {
+          "titulo": " LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history",
+          "url": "https://www.youtube.com/watch?v=SUelbSa-OkA"
+        },
+        {
+          "titulo": "Deep Field: The Impossible Magnitude of our Universe",
+          "url": "https://www.youtube.com/watch?v=yDiD8F9ItX0"
+        },
+        {
+          "titulo": "ORBIT - A Journey Around Earth in Real Time",
+          "url": "https://www.youtube.com/watch?v=7KXGZAEWzn0"
+        },
+        {
+          "titulo": "Nocturne - Earth at Night ",
+          "url": "https://www.youtube.com/watch?v=8gPzIKe92-M"
+        },
+        {
+          "titulo": "Around The World In 324 Seconds",
+          "url": "https://www.youtube.com/watch?v=uh7LEhFlsrY"
+        },
+        {
+          "titulo": "Comet NEOWISE from ISS",
+          "url": "https://www.youtube.com/watch?v=Yh1_wHdUx3Y"
+        }       
+      ]
+    }
+  ]
+}
